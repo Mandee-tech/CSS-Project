@@ -12,9 +12,15 @@ body {
 header {
   height: 100px;
   background-color: lightgreen;
+  position: sticky;
+  top:0;
 }
 nav {
   background-color: white;
+  position: fixed;
+  width:200px;
+  height:
+  100vh;
 }
 main {
   background-color: lightyellow;
@@ -34,4 +40,8 @@ footer {
   background-color: red;
   height: 100px;
   width: 100px;
+  position:
+  absolute;
+  top: 5px;
+  right:10px;
 }

@@ -3,3 +3,28 @@ main {
   height: 100vh;
   overflow: auto;
 }
+.box{
+  background-color: rgb(110, 19, 196);
+  height: 320px;
+     width:
+     320px;
+
+}
+.padding 
+{
+  padding:
+  5px;
+}
+.margin
+{
+  margin:
+  5px;
+}
+.border
+{
+  border:
+  solid 
+  black
+  10px;
+  border-radius: 30px;
+}

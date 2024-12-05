@@ -31,6 +31,16 @@ main {
 
 @media screen and (min-width: 800px) {
   /* Add Styling Below this comment */
-
+.card {
+  height: 600px;
+  width: 600px;
+  flex-direction: column;
+}
   /* Add Styling Above this comment */
+}
+.item-1 {
+  background-color: green;
+}
+.item-2 {
+  background-color: orange;
 }
